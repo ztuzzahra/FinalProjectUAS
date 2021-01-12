@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Child Learning Notes</string>
+    <string name="selamatdatang">Welcome</string>
+    <string name="btn_next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_note">Note</string>
+    <string name="btn_tips"><![CDATA[Tips&Trik]]></string>
+    <string name="ujicoba">jiodajwdoakjdpoakdokdpowakdojdisjdojdojdoapdojdoxdsokosd</string>
+    <string name="textview">TextView</string>
+    <string name="profile">Profile</string>
+    <string name="profilee">My Profile</string>
+    <string name="nama">Nama : Zabrina Tuzzahra</string>
+    <string name="npm">NPM : 18082010030</string>
+    <string name="alamat">Alamat : Perumahan GTCK Jl.Dahlia Blok E.24-25 Sidoarjo, Jawa Timur</string>
+    <string name="tujuan">Mempermudah dalam mencatat suatu hal</string>
+</resources>
